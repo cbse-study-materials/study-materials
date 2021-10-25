@@ -1,0 +1,5 @@
+theme:
+  name: material
+
+site_name: "CBSE Study Materials"
+docs_dir: "website"
